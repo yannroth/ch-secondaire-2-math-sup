@@ -9,6 +9,7 @@ Les données des examens sont disponibles sur demande sur le site du [SEFRI](htt
 ### Status
 | Session | Status réponse | Status résolution  | Autheur(s)  | Relecteur(s) |
 | ------- | -------------- | ------------------ | ----------- | ------------ |
+| 2019b   | Terminé        | En attente         | Yann ROTH   | En attente   |
 | 2020a   | Terminé        | En attente         | Yann ROTH   | En attente   |
 
 ### Dependences logicielles
